@@ -4,7 +4,7 @@ body, html {
   }
   
 .background {
-    background-image: url("motocross-background.jpg");
+    background-image: url("../images/motocross-background.jpg");
     height: 100%;
     background-position: center;
     background-size: cover;
